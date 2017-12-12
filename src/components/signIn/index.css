@@ -1,0 +1,31 @@
+.instagram-button {
+    display: inline-block;
+    background: linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%);
+    color: #fff;
+    width: 190px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 2px;
+    border: 0px solid transparent;
+    font-size: 16;
+    font-weight: bold;
+    font-family: "proxima-nova", "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+.facebook-button {
+    font-family: Helvetica,sans-serif;
+    font-weight: 700;
+    -webkit-font-smoothing: antialiased;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    /* font-size: calc(.27548vw + 12.71074px); */
+    text-decoration: none;
+    /* text-transform: uppercase; */
+    /* transition: background-color .3s,border-color .3s; */
+    background-color: #4c69ba;
+    width: 190px;
+    padding: 10px 0;
+    border: 0px solid transparent;
+    border-radius: 2px;
+}
