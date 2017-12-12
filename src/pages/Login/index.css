@@ -3,10 +3,11 @@
 }
 
 .login-container {
-    padding-top: 10%
+    padding-top: 10%;
 }
 
 .login-box {
+    border-radius: 2px;
     padding: 3em;
     background-color: rgba(0, 0, 0, .5);
     width: auto;
@@ -17,7 +18,16 @@
     padding: 10px;
 }
 
+.login-button > button:hover {
+    cursor: pointer;
+}
+
 .login-title {
     padding: 0px;
     color: #E8E8E8;
+}
+
+.login-title > h2 {
+    margin-top: 0px;
+    margin-bottom: 45px;
 }
